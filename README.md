@@ -17,7 +17,7 @@ para um consumer, que lerá essa message e executará a lógica estabelecida no 
 E esta meus amigos, é a explicação mais simples de todas. Agora que você já está por dentro do rabbit, vamos ao código.
 
 **IMPORTANTE**: Para rodar a aplicação e realizar os testes, é necessário que você tenha o rabbitmq instalado e rodando no *localhost* na porta **5672**, para instalar o
-rabbit, voc~e pode seguir a documentação encontrada [aqui](https://www.rabbitmq.com/download.html).
+rabbit, você pode seguir a documentação encontrada [aqui](https://www.rabbitmq.com/download.html).
 
 ## Hello World!
 (o código para esta seção pode ser encontrado [aqui](https://github.com/meninobirno/estudos-rabbitmq/tree/master/HelloWorldProducer) e [aqui](https://github.com/meninobirno/estudos-rabbitmq/tree/master/HelloWorldConsumer)).
